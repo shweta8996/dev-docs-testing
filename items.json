@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "position": "left",
+            "label": "Get Started",
+            "prependBaseUrlToHref": true,
+            "href": "/docs/"
+        },
+        {
+            "label": "Blogs",
+            "position": "left",
+            "prependBaseUrlToHref": true,
+            "href": "/blog"
+        },
+        {
+            "label": "Changelog",
+            "position": "left",
+            "prependBaseUrlToHref": true,
+            "href": "/changelog"
+        },
+        {
+            "label": "APIs",
+            "position": "left",
+            "prependBaseUrlToHref": true,
+            "href": "/apis"
+        }
+    ]
+}
